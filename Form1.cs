@@ -15,5 +15,10 @@ namespace test
         {
             InitializeComponent();
         }
+        // Khong biet viet cai gi
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
