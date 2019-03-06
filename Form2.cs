@@ -15,5 +15,10 @@ namespace test
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            //ghi chu tren master
+        }
     }
 }
